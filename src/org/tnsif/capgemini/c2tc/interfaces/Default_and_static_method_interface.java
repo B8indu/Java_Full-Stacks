@@ -1,4 +1,4 @@
-package org.tns.capgemini.c2tc;
+package org.tnsif.capgemini.c2tc.interfaces;
 
 
 interface Vehicle6
